@@ -1,3 +1,4 @@
+-- inserindo informacao na tabela Aluno
 INSERT INTO aluno (primeiro_nome, ultimo_nome, data_nascimento) VALUES (
 	'Vinicius', 'Dias', '1997-10-15'
 ), (
@@ -8,8 +9,10 @@ INSERT INTO aluno (primeiro_nome, ultimo_nome, data_nascimento) VALUES (
 	'Maria', 'Rosa', '1985-01-01'
 );
 
+-- inserindo informacao na tabela Categoria
 INSERT INTO categoria (nome) VALUES ('Front-end'), ('Programação'), ('Bancos de dados'), ('Data Science');
 
+-- inserindo informacao na tabela Curso
 INSERT INTO curso (nome, categoria_id) VALUES
 	('HTML', 1),
 	('CSS', 1),
@@ -25,5 +28,6 @@ INSERT INTO curso (nome, categoria_id) VALUES
 	('Pandas', 4),
 	('Machine Learning', 4),
 	('Power BI', 4);
-	
+
+-- inserindo informacao na tabela estrangeira ALUNO/CURSO
 INSERT INTO aluno_curso VALUES (1, 4), (1, 11), (2, 1), (2, 2), (3, 4), (3, 3), (4, 4), (4, 6), (4, 5);
