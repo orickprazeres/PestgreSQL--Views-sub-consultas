@@ -1,7 +1,9 @@
 # PestgreSQL--Views-sub-consultas
 
-## Aula01 - O que aprendemos?
+## Faça esse curso de SQL e Banco de Dados e:
 
-- Revisitamos e nos aprofundamos nos conceitos de chaves primarias e chaves estrangeiras;
-- Falamos sobre os diferentes tipos de relacionamentos;
-- Vimos na prática como implementar os relacionamentos um-para-um, um-para-muitos e muitos-para-muitos.
+- Pratique o uso do SQL e relacionamentos
+- Use tipos diferentes e chaves estrangeiras
+- Saiba como escrever e executar Sub-Consultas
+- Use funções para trabalhar com Strings, Data e Formulas
+- Gere uma view baseado no comando SELECT
