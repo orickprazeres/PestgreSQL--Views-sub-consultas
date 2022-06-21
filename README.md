@@ -1,7 +1,7 @@
 # PestgreSQL--Views-sub-consultas
 
-## Aula02 - O que aprendemos?
+## Aula03 - O que aprendemos?
 
-- Revisamos os comandos de manipulação de dados (INSERT, UPDATE e DELETE);
-- Vimos na prática como relatórios reais são montados;
-- Exercitamos os conceitos de SELECTs, JOINs, etc.
+- Aprendemos a utilizar o operador IN;
+- Conhecemos as sub-consultas;
+- Vimos que sub-consultas podem ser utilizadas como um campo ou como uma "tabela virtual";
